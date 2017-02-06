@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+	<lab>
+		<name>lab1</name>
+		<desc>Twitter feed from JSON file</desc>
+		<url>/labs/lab1</url>
+		<img>/resources/img/lab4.png</img>
+	</lab>
+	<lab>
+		<name>lab2</name>
+		<desc>Weather app using APIs</desc>
+		<url>/labs/lab2</url>
+		<img>/resources/img/lab3.png</img>
+	</lab>
+	<lab>
+		<name>lab3</name>
+		<desc>Git and Bug Tracking</desc>
+		<url>/labs/lab3</url>
+		<img>/resources/img/lab5.png</img>
+	</lab>
+<!-- 	<lab>
+		<name>lab4</name>
+		<desc>Experience AJAX and some JSON</desc>
+		<url>/labs/lab4</url>
+		<img>/resources/img/lab4.png</img>
+	</lab>
+	<lab>
+		<name>lab5</name>
+		<desc>Front-end optimization</desc>
+		<url>/labs/lab5/lab5.html</url>
+		<img>/resources/img/lab5.png</img>
+	</lab>
+	<lab>
+		<name>lab6</name>
+		<desc>Calculator using PHP</desc>
+		<url>/labs/lab6/lab6start.php</url>
+		<img>/resources/img/lab6.png</img>
+	</lab>
+	<lab>
+		<name>lab7</name>
+		<desc>Use Bootstrap and jQuery UI</desc>
+		<url>#top</url>
+		<img>/resources/img/lab7.png</img>
+	</lab>
+	<lab>
+		<name>lab8</name>
+		<desc>Start working with SQL and MariaDB</desc>
+		<url>/labs/lab8/websyslab8.txt</url>
+		<img>/resources/img/lab8.png</img>
+	</lab>
+	<lab>
+		<name>lab9</name>
+		<desc>Work with PHP and PDO</desc>
+		<url>/labs/lab9</url>
+		<img>/resources/img/lab9.png</img>
+	</lab>
+	<lab>
+		<name>lab10</name>
+		<desc>Try out PostgreSQL</desc>
+		<url>/labs/lab10/index.php</url>
+		<img>/resources/img/lab10.png</img>
+	</lab>
+
+	<hw>
+		<name>homework1</name>
+		<desc>Create a resume with HTML, CSS, and the hCard microformat</desc>
+		<url>/homeworks/homework1</url>
+		<img>/resources/img/hw1.png</img>
+	</hw>
+	<hw>
+		<name>homework2</name>
+		<desc>Create a jQuery plugin game</desc>
+		<url>/homeworks/homework2</url>
+		<img>/resources/img/hw2.png</img>
+	</hw> -->
+
+</root>

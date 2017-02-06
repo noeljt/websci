@@ -1,0 +1,44 @@
+body {
+	background-color: #1DA1F2;
+	color: #fff;
+}
+ul {
+   margin: 0;
+   padding: 0;
+   position: relative;
+   zoom: 1;
+}
+li {
+   list-style: none;
+}
+img {
+	border-radius: 50%;
+}
+.mask {
+   border: 5px solid #fff;
+   box-shadow: 1px 1px 5px rgba(0,0,0,0.7);
+   margin-top: 40px;
+}
+.col-md-12 {
+	padding: 10px;
+}
+
+.image {
+	float: left;
+}
+
+.uimg {
+	display: block;
+}
+
+.text {
+	margin-left: 65px;
+}
+
+.title {
+	text-align: center;
+	border-bottom: 1px solid #fff;
+	color: white;
+	padding-bottom: 12px;
+	/*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+}

@@ -1,0 +1,52 @@
+#main_title {
+  background-color: rgba(255,255,255,0.35);
+}
+
+#main_title > h3 { 
+	 text-shadow: 1px 1px white;
+}
+
+.bg-primary {
+	background-color: #001C38;
+}
+
+.text-primary {
+	color: #001C38;
+}
+
+#logo {
+	height: 100px;
+	width: 100px;
+}
+
+#progressBar {
+	margin: 0 10%;
+}
+
+.ui-progressbar-value {
+	background-color: #001C38;
+}
+
+#grad_title {
+	margin: 50px auto;
+	color: white;
+	text-shadow: 2px 2px black;
+}
+
+#hwsection {
+	background-color: #001C38;
+	color: white;
+}
+
+#sidebar-wrapper {
+	background-color: rgba(34,34,34,0.75);
+	font-size: 150%;
+}
+
+.fa-times {
+	color: white;
+}
+
+#menu-close {
+	background: inherit;
+}

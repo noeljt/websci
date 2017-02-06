@@ -1,0 +1,70 @@
+a {
+  display: block;
+  width: 400px;
+  text-align: center;
+  margin: auto;
+  margin-top: 15px;
+}
+body {
+  background-color: rgba(126,192,238,0.25);
+}
+canvas {
+  display: block;
+  vertical-align: center;
+}
+#forecast canvas {
+  margin: auto;
+}
+.container {
+    background-color: #DCDCDC;
+    color: white;
+    max-width: 400px;
+    margin-top: 15px;
+    box-shadow: 10px 10px 5px #fff;
+}
+.row {
+  padding: 5px 0;
+}
+#day {
+  background-color: #C0C0C0; 
+  font-size: 120%;
+}
+#day .col-xs-6:first-child {
+  text-align: left;
+}
+#day .col-xs-6:last-child {
+  text-align: right;
+}
+#location {
+  padding: 5px 0;
+}
+#current {
+  font-size: 400%
+}
+#conditions {
+  font-size: 85%;
+}
+#conditions div {
+  padding-right: 0;
+  padding-left: 5px;
+}
+#conditions div:first-child {
+  padding-left: 15px;
+}
+#forecast {
+  padding-bottom: 0;
+}
+#forecast .row:first-child {
+  background-color: rgba(0,0,0,.1);
+}
+#forecast .col-xs-12 {
+  text-align: center;
+  padding: 5px 0;
+  font-size: 85%;
+}
+#forecast .col-xs-2:nth-child(even) {
+  background-color: #D3D3D3;
+}
+#forecast .col-xs-2:nth-child(odd) {
+  background-color: #C0C0C0;
+}
